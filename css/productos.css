@@ -1,0 +1,40 @@
+h3 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 2rem;
+}
+
+.card {
+    width: 40%;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 6rem;
+}
+
+.precio {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 2rem;
+}
+
+.btnComprar {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    width: 6rem;
+}
+
+#carrito {
+    background-color: #666C5C;
+    font-weight: bold;
+    color: black;
+}
+
+.mostrar-carrito {
+
+    margin: 5% 0 5% 90%;
+    border-radius: 0.5rem;
+    height: 50px;
+    width: 50px;
+    z-index: 5;
+}
